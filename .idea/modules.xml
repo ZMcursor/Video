@@ -5,7 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/Video.iml" filepath="$PROJECT_DIR$/Video.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/eventbus/eventbus.iml" filepath="$PROJECT_DIR$/eventbus/eventbus.iml" />
+      <module fileurl="file://$PROJECT_DIR$/playerview/playerview.iml" filepath="$PROJECT_DIR$/playerview/playerview.iml" />
       <module fileurl="file://$PROJECT_DIR$/videowidget/videowidget.iml" filepath="$PROJECT_DIR$/videowidget/videowidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zmfilepicker/zmfilepicker.iml" filepath="$PROJECT_DIR$/zmfilepicker/zmfilepicker.iml" />
     </modules>
   </component>
 </project>

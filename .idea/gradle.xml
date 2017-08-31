@@ -10,7 +10,9 @@
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/eventbus" />
+            <option value="$PROJECT_DIR$/playerview" />
             <option value="$PROJECT_DIR$/videowidget" />
+            <option value="$PROJECT_DIR$/zmfilepicker" />
           </set>
         </option>
         <option name="resolveModulePerSourceSet" value="false" />

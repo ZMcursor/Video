@@ -1,1 +1,1 @@
-include ':app', ':videowidget', ':eventbus'
+include ':app', ':videowidget', ':eventbus', ':playerview', ':zmfilepicker'

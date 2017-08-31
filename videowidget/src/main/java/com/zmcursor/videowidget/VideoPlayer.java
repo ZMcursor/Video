@@ -1,8 +1,6 @@
 package com.zmcursor.videowidget;
 
 import android.content.Context;
-import android.graphics.Canvas;
-import android.graphics.Color;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.media.TimedText;

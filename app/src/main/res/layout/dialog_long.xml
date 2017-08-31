@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RadioGroup xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp">
+
+    <RadioButton
+        android:id="@+id/ratio_delete"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="删除" />
+
+    <RadioButton
+        android:id="@+id/ratio_rename"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:text="重命名" />
+
+    <EditText
+        android:id="@+id/file_rename"
+        android:layout_width="match_parent"
+        android:layout_height="40dp"
+        android:digits="0123456789abcdefghigklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ"
+        android:gravity="center"
+        android:imeOptions="actionDone"
+        android:inputType="textVisiblePassword"
+        android:singleLine="true" />
+
+</RadioGroup>
